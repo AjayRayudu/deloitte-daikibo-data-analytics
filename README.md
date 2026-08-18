@@ -67,18 +67,6 @@ The analysis then focused on the factory with the highest number of machine fail
 
 Within that factory, machine-level breakdown counts were compared to identify the machines experiencing the most failures.
 
-### Key Findings
-
-**Location with the most breakdowns:**
-
-> Add your Tableau result here.
-
-**Machine(s) with the most breakdowns at that location:**
-
-> Add your Tableau result here.
-
-These findings can help Daikibo identify factories and machines that may require additional maintenance attention.
-
 ---
 
 ## Business Impact
